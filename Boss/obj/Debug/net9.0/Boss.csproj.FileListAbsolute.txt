@@ -1,0 +1,15 @@
+C:\Users\80945\Desktop\new\Boss\bin\Debug\net9.0\Boss.exe
+C:\Users\80945\Desktop\new\Boss\bin\Debug\net9.0\Boss.deps.json
+C:\Users\80945\Desktop\new\Boss\bin\Debug\net9.0\Boss.runtimeconfig.json
+C:\Users\80945\Desktop\new\Boss\bin\Debug\net9.0\Boss.dll
+C:\Users\80945\Desktop\new\Boss\bin\Debug\net9.0\Boss.pdb
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.AssemblyInfoInputs.cache
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.AssemblyInfo.cs
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.csproj.CoreCompileInputs.cache
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.sourcelink.json
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.dll
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\refint\Boss.dll
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.pdb
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\Boss.genruntimeconfig.cache
+C:\Users\80945\Desktop\new\Boss\obj\Debug\net9.0\ref\Boss.dll
