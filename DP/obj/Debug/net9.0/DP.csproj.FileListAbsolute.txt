@@ -1,0 +1,14 @@
+C:\Users\80945\Desktop\new\DP\bin\Debug\net9.0\DP.exe
+C:\Users\80945\Desktop\new\DP\bin\Debug\net9.0\DP.deps.json
+C:\Users\80945\Desktop\new\DP\bin\Debug\net9.0\DP.runtimeconfig.json
+C:\Users\80945\Desktop\new\DP\bin\Debug\net9.0\DP.dll
+C:\Users\80945\Desktop\new\DP\bin\Debug\net9.0\DP.pdb
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\DP.AssemblyInfoInputs.cache
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\DP.AssemblyInfo.cs
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\DP.csproj.CoreCompileInputs.cache
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\DP.dll
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\refint\DP.dll
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\DP.pdb
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\DP.genruntimeconfig.cache
+C:\Users\80945\Desktop\new\DP\obj\Debug\net9.0\ref\DP.dll
