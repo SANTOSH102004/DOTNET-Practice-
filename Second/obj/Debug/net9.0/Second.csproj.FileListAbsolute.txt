@@ -1,0 +1,15 @@
+C:\Users\80945\Desktop\new\Second\bin\Debug\net9.0\Second.exe
+C:\Users\80945\Desktop\new\Second\bin\Debug\net9.0\Second.deps.json
+C:\Users\80945\Desktop\new\Second\bin\Debug\net9.0\Second.runtimeconfig.json
+C:\Users\80945\Desktop\new\Second\bin\Debug\net9.0\Second.dll
+C:\Users\80945\Desktop\new\Second\bin\Debug\net9.0\Second.pdb
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.AssemblyInfoInputs.cache
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.AssemblyInfo.cs
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.sourcelink.json
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.dll
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\refint\Second.dll
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.pdb
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\Second.genruntimeconfig.cache
+C:\Users\80945\Desktop\new\Second\obj\Debug\net9.0\ref\Second.dll
