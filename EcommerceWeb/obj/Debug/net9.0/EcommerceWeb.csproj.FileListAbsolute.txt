@@ -1,0 +1,9 @@
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.AssemblyInfoInputs.cache
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.AssemblyInfo.cs
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.csproj.CoreCompileInputs.cache
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.RazorAssemblyInfo.cache
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.RazorAssemblyInfo.cs
+C:\Users\80945\Desktop\new\EcommerceWeb\obj\Debug\net9.0\EcommerceWeb.sourcelink.json

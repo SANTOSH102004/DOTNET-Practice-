@@ -1,0 +1,30 @@
+﻿﻿@model List<EcommerceWeb.Models.Product>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Our E-commerce Store</h1>
+    <p>Discover our featured products below.</p>
+</div>
+
+<h2>Featured Products</h2>
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text">@product.Description</p>
+                    <p class="card-text"><strong>$@product.Price</strong></p>
+                    <a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-primary">View Details</a>
+                    <a href="@Url.Action("AddToCart", "Cart", new { productId = product.Id })" class="btn btn-success">Add to Cart</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<p><a href="@Url.Action("Index", "Product")" class="btn btn-secondary">View All Products</a></p>

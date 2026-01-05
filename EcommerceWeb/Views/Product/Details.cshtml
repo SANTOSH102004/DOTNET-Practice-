@@ -1,0 +1,22 @@
+@model EcommerceWeb.Models.Product
+
+@{
+    ViewData["Title"] = @Model.Name;
+}
+
+<h1>@Model.Name</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@Model.Name</h5>
+                <p class="card-text">@Model.Description</p>
+                <p class="card-text"><strong>$@Model.Price</strong></p>
+                <a href="@Url.Action("AddToCart", "Cart", new { productId = Model.Id })" class="btn btn-success">Add to Cart</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><a href="@Url.Action("Index", "Product")" class="btn btn-secondary">Back to Products</a></p>
